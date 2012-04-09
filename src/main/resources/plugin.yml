@@ -1,0 +1,11 @@
+name: Multiverse-Stargates
+main: com.azelphur.stargate.StargatePlugin
+version: 0.1
+author: azelphur
+
+depend: [Multiverse-Portals]
+
+commands:
+  mvsg:
+    description: Dial a stargate
+    usage: /<command>
